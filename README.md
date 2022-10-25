@@ -1,5 +1,5 @@
 # TCPFileDownload
-File download application based on TCP. A file transfer application based on TCP was implemented. 
+File download application based on TCP. 
 After establishing a TCP connection between the client and the server, the user on the client
 side enters the filename to the terminal, the client retrieves the filename and sends the name
 to the server. When the server receives the filename, it will try to open the requested file. If
